@@ -89,20 +89,5 @@ These observations suggest that further investigation into structural or societa
 
 ---
 
-##  Project Structure
-ethnicity-occupation-r/
-├── scripts/
-│ ├── heatmap+chisquared.R
-│ ├── logisticregression.R
-│ ├── multinmilalogisticregression.R
-│ ├── stackedbarchart+chisquared.R
-│ └── stackedpiechart
-│
-├── data/
-│ └── [Confidential – not included]
-│
-├── outputs/
-│ └── [Charts – not included]
-│
-└── README.md
+
 
