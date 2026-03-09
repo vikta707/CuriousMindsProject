@@ -1,7 +1,7 @@
 # ANALYSIS ON THE EFFECT OF ETHNICITY ON OCCUPATIONAL CHOICE(R)
 
 This project replicates data analysis I performed during a data science internship. It investigates the relationship between ethnicity and 
-occupational choice using data obtained from StatsNZ. Due to confidentiality agreements, the dataset and outputs are not shared, but the 
+occupational choice using data obtained from StatsNZ. Due to confidentiality agreements, the raw datasets are not shared, but the 
 complete R code and workflow are included for demonstration purposes.
 
 ---
