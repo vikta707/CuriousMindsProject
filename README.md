@@ -6,8 +6,6 @@ This project replicates data analysis performed during a **Data Science internsh
 It investigates potential disparities across ethnic groups and examines how early 
 subject choices may influence access to professional and STEM-related careers. 
 
-Due to confidentiality agreements, the raw datasets are not shared, 
-but the complete R code and workflow are included for demonstration purposes.
 ---
 
 ##  Data
