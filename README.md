@@ -1,16 +1,9 @@
 # ANALYSIS ON THE EFFECT OF ETHNICITY ON OCCUPATIONAL CHOICE(R)
 
-This project replicates data analysis I performed during a data science internship. It investigates the relationship between ethnicity and 
-occupational choice using data obtained from StatsNZ. Due to confidentiality agreements, the raw datasets are not shared, but the 
-complete R code and workflow are included for demonstration purposes.
+## Overview
 
----
-
-## Objective
-
-To explore whether individuals from different ethnic backgrounds are disproportionately represented in specific occupations, specifically
-Maori and Pacific ethnic groups. The analysis aims to determine if ethnicity is a statistically significant predictor of occupation 
-choice, whilst also considering other factors such as specific standards taken in high school.
+This project replicates data analysis I performed during a data science internship. The analysis investigates potential disparities across ethnic groups and
+examines how early subject choices may influence access to professional and STEM-related careers. Due to confidentiality agreements, the raw datasets are not shared, but the complete R code and workflow are included for demonstration purposes.
 
 ---
 
@@ -80,8 +73,8 @@ The analysis was structured into multiple stages, each in its own R script:
 ## Results Preview
 <img width="512" height="406" alt="Censusplot" src="https://github.com/user-attachments/assets/d0268483-e684-4ea3-bbc1-406ca8b2f175" />
 <img width="1068" height="930" alt="piechartX" src="https://github.com/user-attachments/assets/bf7c61a0-fc9e-430a-bce1-e02fe1b4db26" />
-<img width="467" height="311" alt="Screen Shot 2026-03-12 at 2 30 29 pm" src="https://github.com/user-attachments/assets/2eb8ebec-1910-4cfc-a7a8-308858ee8e9d" />
-<img width="439" height="196" alt="Screen Shot 2026-03-12 at 2 29 39 pm" src="https://github.com/user-attachments/assets/a3f114cc-711f-4f7d-bb89-99fdee45b7a0" />
+<img width="386" height="257" alt="Screen Shot 2026-03-12 at 3 00 06 pm" src="https://github.com/user-attachments/assets/94bb9a36-39af-480c-870c-0f84ec48da9b" />
+<img width="442" height="196" alt="Screen Shot 2026-03-12 at 2 59 30 pm" src="https://github.com/user-attachments/assets/b99bf0ce-7142-4364-a157-7d97b5a810a0" />
 
 ---
 
