@@ -77,13 +77,24 @@ The analysis was structured into multiple stages, each in its own R script:
   
 ---
 
-## Results & Observations
+## Results Preview
+<img width="512" height="406" alt="Censusplot" src="https://github.com/user-attachments/assets/d0268483-e684-4ea3-bbc1-406ca8b2f175" />
+<img width="1068" height="930" alt="piechartX" src="https://github.com/user-attachments/assets/bf7c61a0-fc9e-430a-bce1-e02fe1b4db26" />
+<img width="467" height="311" alt="Screen Shot 2026-03-12 at 2 30 29 pm" src="https://github.com/user-attachments/assets/2eb8ebec-1910-4cfc-a7a8-308858ee8e9d" />
+<img width="439" height="196" alt="Screen Shot 2026-03-12 at 2 29 39 pm" src="https://github.com/user-attachments/assets/a3f114cc-711f-4f7d-bb89-99fdee45b7a0" />
+
+---
+
+## Insights
 
 Although exact figures and some variable names are confidential, the analysis revealed several noteworthy patterns:
 
-- Ethnic groups such as Maori and Pacific are overrepresented in Labour/Machinery Jobs in underrepresented in Manager/Professional jobs.
-- Taking Mathematics Standards in Level 3 gives students a higher chance in pursuing "STEM" occupations
-- Students who have not taken either a Level 1 Mathematics or Level 1 Science Standard are less likely to pursue in Manager/Professional Jobs
+- Māori and Pacific students are overrepresented in labour and machinery occupations, while being underrepresented in managerial and professional roles.
+- Students who take Level 3 Mathematics standards have a higher likelihood of pursuing STEM-related occupations.
+- Students who did not complete either a Level 1 Mathematics or Level 1 Science standard are less likely to enter managerial or professional occupations.
+- European students are overrepresented in managerial and professional occupations.
+- Most students across all occupation categories have completed at least one Level 3 Science standard.
+- Students who complete a Level 2 Mathematics standard are highly likely to continue on to Level 3 Mathematics.
 
 These observations suggest that further investigation into structural or societal factors influencing occupation may be warranted.
 
