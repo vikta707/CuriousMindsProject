@@ -18,7 +18,7 @@ choice, whilst also considering other factors such as specific standards taken i
 
 
 >  The datasets were manually extracted from the StatsNZ database using SQL and R.
->  The datasets used in this project is confidential and **not included** in this repository.
+>  The raw datasets used in this project is confidential and **not included** in this repository.
 
 However, the original dataset included the following columns:
 
