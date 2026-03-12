@@ -1,10 +1,13 @@
-# ANALYSIS ON THE EFFECT OF ETHNICITY ON OCCUPATIONAL CHOICE(R)
+# CURIOUS MINDS PROJECT
 
 ## Overview
 
-This project replicates data analysis I performed during a data science internship. The analysis investigates potential disparities across ethnic groups and
-examines how early subject choices may influence access to professional and STEM-related careers. Due to confidentiality agreements, the raw datasets are not shared, but the complete R code and workflow are included for demonstration purposes.
+This project replicates data analysis performed during a **Data Science internship**. 
+It investigates potential disparities across ethnic groups and examines how early 
+subject choices may influence access to professional and STEM-related careers. 
 
+Due to confidentiality agreements, the raw datasets are not shared, 
+but the complete R code and workflow are included for demonstration purposes.
 ---
 
 ##  Data
